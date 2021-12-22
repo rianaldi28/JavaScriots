@@ -1,2 +1,8 @@
-console.log("Selamat datang di ES6 Study I!");
-console.log("Ayo belajar bersama Ninja Ken!");
+// Cetak "Hello World" ke console
+console.log("Hello World");
+
+// Cetak "Ninja Ken" ke console
+console.log("Ninja Ken");
+
+// Ubah baris dibawah menjadi komentar
+//console.log("Ubah baris ini menjadi komentar");
